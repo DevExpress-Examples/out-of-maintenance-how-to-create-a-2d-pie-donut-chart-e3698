@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/PieDonutChart/MainPage.xaml) (VB: [MainPage.xaml](./VB/PieDonutChart/MainPage.xaml))
+<!-- default file list end -->
 # How to create a 2D Pie (Donut) chart
 
 
