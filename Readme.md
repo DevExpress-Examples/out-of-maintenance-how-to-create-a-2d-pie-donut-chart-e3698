@@ -4,6 +4,9 @@
 * [MainPage.xaml](./CS/PieDonutChart/MainPage.xaml) (VB: [MainPage.xaml](./VB/PieDonutChart/MainPage.xaml))
 <!-- default file list end -->
 # How to create a 2D Pie (Donut) chart
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3698)**
+<!-- run online end -->
 
 
 <p>The following example demonstrates how to create a 2D Pie chart.</p><br />
